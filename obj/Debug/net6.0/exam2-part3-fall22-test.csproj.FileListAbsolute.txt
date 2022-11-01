@@ -1,0 +1,15 @@
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/exam2-part3-fall22-test.csproj.AssemblyReference.cache
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/exam2-part3-fall22-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/exam2-part3-fall22-test.AssemblyInfoInputs.cache
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/exam2-part3-fall22-test.AssemblyInfo.cs
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/exam2-part3-fall22-test.csproj.CoreCompileInputs.cache
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/bin/Debug/net6.0/exam2-part3-fall22-test
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/bin/Debug/net6.0/exam2-part3-fall22-test.deps.json
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/bin/Debug/net6.0/exam2-part3-fall22-test.runtimeconfig.json
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/bin/Debug/net6.0/exam2-part3-fall22-test.dll
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/bin/Debug/net6.0/exam2-part3-fall22-test.pdb
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/exam2-part3-fall22-test.dll
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/refint/exam2-part3-fall22-test.dll
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/exam2-part3-fall22-test.pdb
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/exam2-part3-fall22-test.genruntimeconfig.cache
+/Users/annelarimer/Desktop/Source/Repos/TA/exam2-part3-fall22-test/obj/Debug/net6.0/ref/exam2-part3-fall22-test.dll

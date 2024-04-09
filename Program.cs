@@ -1,7 +1,10 @@
 ﻿using mis321_exam2_pt2;
 
-Console.WriteLine("This weeks QB stats are below!");
+//only one change should be executed on this file
+
 IGetStats statsObj = new NormalProvider();
+
+Console.WriteLine("This weeks QB stats are below!");
 List<QBStats> qbStats = statsObj.GetQBStats();
 foreach(QBStats qb in qbStats){
     Console.WriteLine(qb.ToString());

@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>exam2_part3_fall22_test</RootNamespace>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>mis321_exam2_pt2</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

@@ -1,4 +1,4 @@
-﻿using exam2_part3_fall22_test;
+﻿using mis321_exam2_pt2;
 
 Console.WriteLine("This weeks QB stats are below!");
 IGetStats statsObj = new NormalProvider();

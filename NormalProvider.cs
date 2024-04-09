@@ -1,4 +1,4 @@
-namespace exam2_part3_fall22_test
+namespace mis321_exam2_pt2
 {
     public class NormalProvider : IGetStats
     {
